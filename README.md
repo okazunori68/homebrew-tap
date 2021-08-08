@@ -1,4 +1,4 @@
-# okazunoridon tap
+# okazunori tap
 
 自作のFormulaです。
 
