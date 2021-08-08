@@ -6,4 +6,4 @@
 
 ## インストール方法
 
-```brew install okazunoridon/tap/<formula>```
+```brew install okazunori68/tap/<formula>```
